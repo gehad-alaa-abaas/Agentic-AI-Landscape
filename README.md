@@ -238,7 +238,7 @@ Choosing a framework is only the beginning. How you configure your agents matter
 - Have I validated agent outputs before they reach downstream systems?
 - Are my MCP server connections authenticated and scoped?
 
-For a security-first operational guide, see → [agentops-security-workflows](https://github.com/gehad-alaa-abaasE/agentops-security-workflows)
+For a security-first operational guide, see → [agentops-security-workflows](https://github.com/gehad-alaa-abaasE/agentic-ops-security-workflows)
 
 For Cisco's open-source AI security tools → [cisco-ai-security-toolkit](https://github.com/gehad-alaa-abaasE/cisco-ai-security-toolkit)
 
